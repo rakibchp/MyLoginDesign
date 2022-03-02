@@ -4,6 +4,7 @@ import 'package:mylogindesign/pages/widgets/sign_up.dart';
 import 'package:mylogindesign/theme.dart';
 import 'package:mylogindesign/utils/bubble_indicator_painter.dart';
 
+
 class LoginPage extends StatefulWidget {
   const LoginPage({Key key}) : super(key: key);
 
